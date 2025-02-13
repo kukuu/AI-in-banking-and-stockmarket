@@ -1,1 +1,1 @@
-# AI-in-banking-and-stockmarket
+# AI in Banking and Stockmarket
