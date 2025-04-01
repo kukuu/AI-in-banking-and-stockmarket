@@ -5,6 +5,10 @@ This work is a BLUEPRINT and extends the capability of BULIEVE - https://www.bul
 The implementation plan extends Bulieve into a robust AI-driven stock investment platform, adhering to best practices in backend integration, security, governance, and Agile/QA methodologies.
 
 - https://github.com/kukuu/AI-in-banking-and-stock-market
+
+## Related work
+
+- Banking - Best Practices and Governance: https://github.com/kukuu/fintech-open-banking-api/blob/main/banking-best-practices.md
  
   
   
