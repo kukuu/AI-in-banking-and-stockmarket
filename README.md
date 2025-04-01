@@ -9,6 +9,7 @@ The implementation plan extends Bulieve into a robust AI-driven stock investment
 ## Related work
 
 - Banking - Best Practices and Governance: https://github.com/kukuu/fintech-open-banking-api/blob/main/banking-best-practices.md
+- FinTech Banking API - https://github.com/kukuu/fintech-open-banking-api
  
   
   
