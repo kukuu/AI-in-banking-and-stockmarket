@@ -2,7 +2,7 @@
 
 This work is a BLUEPRINT and extends the capability of **BULIEVE** - https://www.bulieve.in/hot-takes to ensure excellence using AI & ML to harness revenue, focusing on Trading and Investments.
 
-The implementation stretches Bulieve into a robust AI-driven stock investment platform, adhering to best practices in backend integration, security, governance, and Agile/QA methodologies.
+The implementation consolidates Bulieve into a robust AI-driven Stock Investment Platform (SIT), adhering to compliance, best practices in backend integration - in security, governance, and Agile/QA practices.
 
 - https://github.com/kukuu/AI-in-banking-and-stock-market
 
